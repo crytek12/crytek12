@@ -34,14 +34,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 📄 Know about my experiences: [![Linkedin Badge](https://img.shields.io/badge/-Tejan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/tejan-gupta-75a3421b4/))
 - ⚡ In my free time, I solve problems on HackerRank and keep up with tech.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tejan-gupta-75a3421b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Link to Tejan Gupta's LinkedIn Profile" title="Tejan Gupta's LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11578014/crytek12?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Link to Tejan Gupta's Stack Overflow Profile" title="Tejan Gupta's Stack Overflow Profile" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/tejangupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Link to Tejan Gupta's Kaggle Profile" title="Tejan Gupta's Kaggle Profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tejangupta8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Link to Tejan Gupta's HackerRank Profile" title="Tejan Gupta's HackerRank Profile" height="30" width="40" /></a>
-</p>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,18 +43,21 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tejangupta&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejangupta&theme=github-dark-blue&hide_border=true" />
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tejangupta&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tejangupta&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=tejangupta&show_icons=true" />
-</picture>
+[![IO DevBlue's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tejangupta&count_private=true&show_icons=true&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejangupta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tejangupta&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
+
+### Contribution Graph
+[![IO DevBlue's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tejangupta&theme=react-dark)](https://github.com/iodevblue/github-readme-activity-graph)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tejan-gupta-75a3421b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Link to Tejan Gupta's LinkedIn Profile" title="Tejan Gupta's LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11578014/crytek12?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Link to Tejan Gupta's Stack Overflow Profile" title="Tejan Gupta's Stack Overflow Profile" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tejangupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Link to Tejan Gupta's Kaggle Profile" title="Tejan Gupta's Kaggle Profile" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tejangupta8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Link to Tejan Gupta's HackerRank Profile" title="Tejan Gupta's HackerRank Profile" height="30" width="40" /></a>
+</p>
