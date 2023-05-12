@@ -32,7 +32,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 📫 How to reach me: tejangupta8@gmail.com
 - 😄 Pronouns: He/Him
 - 📄 Know about my experiences: [![Linkedin Badge](https://img.shields.io/badge/-Tejan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/tejan-gupta-75a3421b4/))
-- ⚡ In my free time, I solve problems on HackerRank and keep up with tech.
+- ⚡ In my free time, I solve problems on HackerRank, LeetCode and keep up with tech.
 
 ---
 
