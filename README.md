@@ -27,8 +27,8 @@
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about **Python, Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
+- 💬 Ask me about **Python, SQL, Statistics, Machine Learning, Deep Learning, Computer Vision, NLP, MLOps**
 - 📫 How to reach me: tejangupta8@gmail.com
 - 😄 Pronouns: He/Him
 - 📄 Know about my experiences: [![Linkedin Badge](https://img.shields.io/badge/-Tejan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/tejan-gupta-75a3421b4/))
