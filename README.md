@@ -50,7 +50,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tejangupta&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
 
 ### Contribution Graph
-[![IO DevBlue's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tejangupta&theme=react-dark)](https://github.com/iodevblue/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejangupta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
