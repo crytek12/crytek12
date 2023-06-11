@@ -45,12 +45,12 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejangupta&theme=github-dark-blue&hide_border=true" />
 
-[![IO DevBlue's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tejangupta&count_private=true&show_icons=true&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
+![Tejan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejangupta&theme=prussian&show_icons=true)
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tejangupta&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejangupta&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejangupta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tejan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejangupta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
