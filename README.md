@@ -26,8 +26,8 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently working on **Complete Self-Driving Car**
+- 🌱 I’m currently learning **Computer Vision**
 - 💬 Ask me about **Python, SQL, Statistics, Machine Learning, Deep Learning, Computer Vision, NLP, MLOps**
 - 📫 How to reach me: tejangupta8@gmail.com
 - 😄 Pronouns: He/Him
