@@ -22,11 +22,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently working on **Complete Self-Driving Car**
+- 🔭 I’m currently working om 
 - 🌱 I’m currently learning **Computer Vision**
 - 💬 Ask me about **Python, SQL, Statistics, Machine Learning, Deep Learning, Computer Vision, NLP, MLOps**
 - 📫 How to reach me: tejangupta8@gmail.com
